@@ -1,0 +1,859 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="tr-TR" version="XHTML+RDFa 1.0" xmlns:og="http://ogp.me/ns#">
+<head>
+<title>Asus Notebook Tamir Ücret Ve Müşteri Memnuniyeti. Başlıklı Şikayet</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="alexaVerifyID" content="Uap-WE2AllBHivqOj-Jdzvu0jWU" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="fb:app_id" content="158181937579860" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="google-site-verification" content="utAIDY33GsYXhz7PwOryzxA3aFVSNfHlUbhgD22QXhE" />
+<meta name="yandex-verification" content="59e67570e5910202" />
+<meta property="og:image" content="http://www.sikayetvar.com/images/sikayetvar_amblem_v2.png" />
+<meta property="og:description" content="Kurumsal bir firmanın teknik servis yöneticisi olarak yaşadığım olumsuz durumu özetle paylaşıyorum. Asus TR 'ye gönderdi..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@SikayetvarCom" />
+<meta name="twitter:url" content="http://www.sikayetvar.com/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti" />
+<meta name="twitter:title" content="Asus Notebook Tamir Ücret Ve Müşteri Memnuniyeti." />
+<meta name="twitter:description" content="Kurumsal bir firmanın teknik servis yöneticisi olarak yaşadığım olumsuz durumu özetle paylaşıyorum. Asus TR 'ye gönderdi..." />
+<meta name="twitter:image" content="http://www.sikayetvar.com/images/sikayetvar_amblem_twitter_card.png" />
+<meta name="description" content="Asus hakkında 'Asus Notebook Tamir Ücret Ve Müşteri Memnuniyeti.' başlığı altında yazılmış olan şikâyeti okumak ve şikâyetin nasıl sonuçlandığını öğrenmek için tıklayın." />
+<meta name="keywords" content="Asus şikayet, Asus ürün şikayetleri,Asus şikayet hattı, Asus ürün yorumları, Asus müşteri hizmetleri, Asus şikayet var, Asus şikayetvar, Asus şikayet yaz, Asus şikayet gönder, Asus hakkında şikayetim var" />
+<base href="//www.sikayetvar.com/main/" />
+<link rel="canonical" href="http://www.sikayetvar.com/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti" />
+<link rel="alternate" type="application/rss+xml" title="Şikayet RSS" href="http://www.sikayetvar.com/home/rss/" />
+<link type="text/css" rel="stylesheet" href="/style.css?v=269" />
+<script type="text/javascript" src="/res/js/jquery.1.6.2.min.js"></script>
+<script type="text/javascript" src="/res/js/jquery-ui.1.8.16.min.js"></script>
+<script type="text/javascript" src="/res/plugins/tinyscrollbar/jquery.tinyscrollbar.min.js"></script>
+<script type="text/javascript" src="/script.js?v=269"></script>
+<link rel="icon" type="image/png" href="/favicon.ico" />
+</head>
+<body>
+<script type="text/javascript">
+		var WRInitTime=(new Date()).getTime();
+</script>
+<input type="hidden" name="socialUrl" id="socialUrl" value="http://www.sikayetvar.com/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti/" />
+<div class="mainContainer">
+<div class="container">
+<div class="header">
+<div class="headerCont1">
+<a href="/" class="sikayetvarLogo">Şikayetvar</a>
+<ul class="topMenu">
+<li class="anasayfaButon">
+<span class="sp"></span>
+<a href="/">ANASAYFA</a>
+</li>
+<li class="sikayetlerButon">
+<a href="/sikayetler">ŞİKAYETLER</a>
+</li>
+</ul>
+<div class="menuLogin">
+<a id="girisYapBt" class="sp GirisYap" href="#loginForm">Giriş Yap</a>
+</div>
+</div>
+<div class="headerCont2">
+<div class="searchBox">
+<input class="searchKeyword" id="searchKeyword" type="text" value="Şikayet, Marka veya Konu" />
+<input class="searchKeywordBackground" disabled="disabled" id="searchKeywordBackground" type="text" />
+<form id="autocompleteForm" method="post" action="/arama">
+<input type="hidden" id="autocompleteSelected" name="autocompleteSelected" />
+</form>
+<form class="searchForm">
+<input class="searchButton sp" type="button" value="" />
+<input type="hidden" id="GrandSearch" name="GrandSearch" />
+<input type="hidden" name="ResetSearch" value="1" />
+</form>
+</div>
+<a href="/sikayetyaz" class="buton sikayetYaz">Şikayet Yaz</a>
+</div>
+</div>
+<div class="left">
+<span class="leftTop"></span>
+<div class="leftContent" style="position:relative;">
+<div class="sikayetDetayNavigasyon sp">
+<a href="/sikayetler/">Şikayetler</a> / 
+<a href="/bilgisayar" alt="/bilgisayar">Bilgisayar</a> 
+			
+			 
+			
+						/
+<a href="/bilgisayar/dizustu-bilgisayar" alt="/bilgisayar/dizustu-bilgisayar">Dizüstü Bilgisayar</a> 
+
+			 
+
+						/
+<a href="/asus" alt="/asus">Asus</a>  
+			/
+<b>Şikayet No : 3011485 </b>
+</div>
+<div class="sikayetDetayUst">
+<font class="sikayetDurumu" >
+<b>Şikayet Durumu : </b>
+								Cevap Bekliyor							</font>
+</div>
+<div class="sikayetDetayBaslik">
+<a title="Asus Tüm Şikayetleri" href="/asus" class="firmaLogo">
+<img src="/images/firma_logo/10/1078.jpg" />
+</a>
+<div class="sikayetBaslik" style="width:529px;">
+<div style="width:529px;">
+<h1><a href="/firma/detay/asus" style="color:#FF6600;border-bottom: 1px dotted #FF6600;text-decoration: none;">Asus</a> Notebook Tamir Ücret Ve Müşteri Memnuniyeti.</h1>
+<span class="sikayetBilgi"><a href="/uye/detay/1765633" style="color:#999999;font-size:10px;font-family: verdana;text-decoration: underline;">Muhammet D.</a> | 30 Ocak 2015 14:30</span>
+</div>
+</div>
+</div>
+<p class="sikayetDetayMetin"> 
+					Kurumsal bir firmanın teknik servis yöneticisi olarak yaşadığım olumsuz durumu özetle paylaşıyorum. Asus TR 'ye gönderdiğimiz cihaza toplam 1790  TL bir tamir ücreti teklifi aldık. İade olarak aldığımız cihazı farklı bir serviste kontrol ettiğimizde yalnızca klavye arızası olduğunu tespit ettik ve ücretli şekilde yani garanti dışı klavye değişimi için tekrar Asus TR ye gönderdik. <br />
+<br />
+Fakat parça değişimi yapmayacaklarını ve bir önceki servis kaydındaki 1790  TL olan tamiri onaylarsak onarım olacağı bilgisi verildi. Sadece parçayı almak istedik fakat o konuda da hiçbir yardımda bulunulmadı. Bahsi geçen şirketin sıradan bir bayii değil bizzat Asus Türkiye olduğunu lütfen dikkate alınız.
+</p>
+<ul class="konuEtiketleri">
+<li style="font-weight: bold; line-height: 20px;">Şikayet Konusu : </li>
+<li>
+<a onclick="_gaq.push(['_trackEvent', 'Etiket (Detay)', 'Yetkili Servis Hizmet Kusuru -- Bilgisayar / Dizüstü Bilgisayar']);" href="/asus/bilgisayar/dizustu-bilgisayar/yetkili-servis-hizmet-kusuru" title="Yetkili Servis Hizmet Kusuru" alt="">Yetkili Servis Hizmet Kusuru</a>
+</li>
+<li>
+<a onclick="_gaq.push(['_trackEvent', 'Etiket (Detay)', 'Yetkili Servis Ücretlendirme -- Bilgisayar / Dizüstü Bilgisayar']);" href="/asus/bilgisayar/dizustu-bilgisayar/yetkili-servis-ucretlendirme" title="Yetkili Servis Ücretlendirme" alt="">Yetkili Servis Ücretlendirme</a>
+</li>
+</ul>
+<ul class="sikayetDetayKontrol" style="display:none;">
+<li>
+<div style="float:left; margin-top:15px; margin-left:6px;  width: 80px; height: 37px;">
+<a href="http://www.sikayetvar.com/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti" class="twitter-share-button" data-text="► @ASUSTR Notebook Tamir Ücret Ve Müşteri Memnuniyeti." data-via="sikayetvarcom" data-lang="en"  data-count="horizontal">Tweetle</a>
+</div>
+</li>
+<li class="no-border-r">
+<div style="float:left; margin-top:15px; text-align: left; width:138px; height:37px;">
+<div class="fb-like" data-send="true" data-layout="button_count"   data-width="50" data-show-faces="true" data-font="arial" data-href="http://www.sikayetvar.com/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti"></div>
+</div>
+</li>
+<li>
+<div style="float:left;  margin-top:13px; width: 65px; height: 37px;">
+<g:plusone></g:plusone>
+</div>
+</li>
+<li>
+<a class="okunma">Okunma</a><span class="goruntulenmeSayisi"><small></small><i></i>1</span>
+</li>
+<li style="float:right;">
+<a href="/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti/#yorumlar" class="yorumYapButon2"><b>Yorum</b> Yap</a>
+</li>
+<li  id="destekVerCikar"    style="display:none;"   style="float:right;" >
+<a href="javascript:;" class="takipEt2" onclick="javascript:takipEtmektenVazgec();"><b>Takipten</b> Vazgeç</a>
+</li>
+<li id="destekVer"  style="float:right;">
+<a href="javascript:;"   class="takipEt2"  onclick="javascript:takipEt();"><b>Takip</b> Et</a>
+</li>
+</ul>
+<div class="sikayetDetayButonlar">
+<ul class="ozetBilgiler">
+<li class="islemButon">
+<a href="#"><span class="listeOkunma">
+<i class="sp listeGoruldu active"></i>
+<span class="listCounter">1086 <em>Kişi Gördü</em></span>
+</a>
+</li>
+<li class="islemButon" id="destekVerCikar"    style="display:none;"  >
+<a class="listeTakipEt" title="Takip Etmekten Vazgeç" href="javascript:;" onclick="javascript:takipEtmektenVazgec();">
+<i class="sp listeTakipEt "></i>
+<span class="listCounter takipciSayisi"></span>
+</a>
+</li>
+<li class="islemButon" id="destekVer"    >
+<a class="listeTakipEt" title="Takip Et" href="javascript:;" onclick="javascript:takipEt();">
+<i class="sp listeTakipEt"></i>
+<span class="listCounter takipciSayisi"></span>
+</a>
+</li>
+<li class="islemButon">
+<a title="Yorum Yap" href="/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti/#yorumlar">
+<i class="sp listeYorumYap"></i>
+<span class="listCounter">0</span>
+</a>
+</li>
+<li class="islemButon listePaylasBox">
+<a href="#" class="listePaylasButon"><i class="sp listePaylas"></i></a>
+<span class="shareButtons" width="310">
+<span class="twitterShare">
+<a href="https://twitter.com/share" class="twitter-share-button"
+										data-url="http://www.sikayetvar.com/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti"
+										data-via="sikayetvarcom"
+										data-text="► @ASUSTR Notebook Tamir Ücret Ve Müşteri Memnuniyeti."
+										>Tweet</a>
+<script type="text/javascript">
+										/*Twitter*/
+										!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+</span>
+<span class="facebookShare">
+<fb:share-button href="http://www.sikayetvar.com/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti" type="button_count"></fb:share-button>
+</span>
+<span class="googlePlusShare">
+<div class="g-plus" data-action="share" data-annotation="bubble" data-href="http://www.sikayetvar.com/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti"></div>
+<script type="text/javascript">
+										window.___gcfg = {lang: 'tr'};
+										(function() {
+											var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+											po.src = 'https://apis.google.com/js/platform.js';
+											var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+										})();
+</script>
+</span>
+</span>
+</li>
+</ul>
+</div>
+<div class="firmaUyelikBasvurusu">
+<a href="/login/kurumsaluyelik/1078"  onclick="_gaq.push(['_trackEvent', 'Kurumsal Üyelik Yönlendirmesi', 'Kurumsal Üyelik Yönlendirmesi / Şikayet Detayı']);">
+				 Kurumsal üye olup şikayete cevap verebilmek için <span> tıklayınız</span>.</a>
+</div>
+<div class="kareReklamAlani-468x60">
+<iframe frameborder="0" scrolling="no" width="468" height="60" src="//reklam.sikayetvar.com/reklam.php?k=12" style="margin:0; padding:0;"></iframe>
+</div>
+<div style="float:left; width:100%;">
+</div>
+</div>
+<span class="leftBottom"></span>
+</div>
+<div class="right">
+<span class="rightTop"></span>
+<div class="rightContent">
+<a href="/uye/detay/1765633" style="float:right;" >
+<img title="Muhammet D." class="uyeAvatar" style="background:url(/images/uye_avatar/cf/8c/cf8cee210aa395798928535a8518e598.jpg) 7px 7px no-repeat;" src="/images/images_yeni/sikayet_liste_satir_avatar_golge.png" />
+</a>
+<div class="rightTitle" style="width:200px; margin-bottom:0px;">
+<h2>Gönderen <b>Kullanıcı</b></h2>
+</div>
+<div class="sikayetDetayKullaniciKutusu">
+<span class="telefonDogrulamasiYapilmis" title="Muhammet D. GSM Doğrulaması Yapmıştır.">Şikayetçi Telefon Doğrulaması Yapmıştır.</span>
+<a href="/uye/detay/1765633" class="kullaniciAdi">
+				Muhammet D.
+</a>
+<font class="kullaniciUyelikTarihi"></font>
+<br />
+<a href="/uye/detay/1765633" class="profilGoruntule sp">Profil Görüntüle</a>
+</div>
+</div>
+<span class="rightBottom"></span>
+<span class="rightTop"></span>
+<div class="rightContent">
+<span class="sikayet_oykusu_kutu">
+<a class="sikayet_oykusu" href="/home/sikayet_sureci" onclick="_gaq.push(['_trackEvent', 'Şikayet Süreci Butonu', 'Şikayet Detayı']);" target="_self"><i class="bSaat"></i> Şikayet Süreci</a>
+</span>
+</div>
+<span class="rightBottom"></span>
+<div class="kareReklamAlani-300x250">
+<iframe frameborder="0" scrolling="no" width="300" height="250" src="//reklam.sikayetvar.com/reklam.php?k=11" style="margin:0; padding:0;"></iframe>
+</div>
+<span class="rightTop"></span>
+<div class="rightContent">
+<span class="uygulamaBaglantilarBig">
+<a onclick="_gaq.push(['_trackEvent', 'Uygulama Banner', 'Uygulama Detay Banner / iPhone']);" class="ios_baglanti" href="https://itunes.apple.com/hk/app/sikayetvar/id453809389" target="_blank">Şikayetvar iPhone Uygulaması</a>
+<a onclick="_gaq.push(['_trackEvent', 'Uygulama Banner', 'Uygulama Detay Banner / Android']);" class="android_baglanti" href="https://play.google.com/store/apps/details?id=com.mysys.sikayetvar" target="_blank">Şikayetvar Android Uygulaması</a>
+</span>
+</div>
+<span class="rightBottom"></span>
+</div>
+<div style="display: none;">
+<div id="mesaj_gonder_form" style="float:left; width:343px;">
+<center>
+			"Özel Mesaj" bölümü bireysel üyelerimiz arasında iletişimi sağlamak amacıyla hazırlanmıştır. Firma adına şikayetlere cevap vermek için <b style="color: #F60;">"Firma Üyeliği"</b> gerçekleştiriniz.                    
+</center>
+<form method="post" class="svForm" action="/misc/info">
+<ul class="centerColumnForm">
+<li><label>Alıcı :</label><input type="text" readonly value="Muhammet D."></li>
+<li><label>Mesajınız :</label><textarea name="ozelMesaj"></textarea></li>
+<li style="border:none;"><input style="float:right;" type="submit" class="buton gonderButonKucuk" value="" /></li>
+</ul>
+<input type="hidden" name="aliciId" value="1765633" />
+<input type="hidden" name="ozelMesajGonder" value="1" />
+</form>
+</div>
+</div>
+<a class='degerlendirmePopup' href="#sikayetDetayPuanlamaBox"></a>
+<script type="text/javascript">
+
+
+ 
+
+$('.begenmedimDetay font').click(function() {
+	mesajId = $(this).attr("rel");
+	$(".begenmedimDetay[rel='"+mesajId+"']").fadeOut();
+});             
+$('.begenmedimDetay .gonderButonKucuk').live('click',function(e) {
+	e.preventDefault();
+
+	mesajId = $(this).attr("rel");
+	begeniId = $(".begenmedimDetay[rel='"+mesajId+"'] .begeniId").val();
+
+	var secenekler = new Array();
+	t=0;
+	$(".begenmedimDetay[rel='"+mesajId+"'] .aktif").each(function(){
+		t++;
+		secenekler[t] = $(this).attr("rel");                    
+	});
+
+	$.post(
+		'/misc/info/', 
+		{ 
+			mesajBegenmemeDetaylari : 1, 
+			mesajId : mesajId,
+			begeniId : begeniId,
+			secenekler : secenekler  
+		},
+		function(data) {
+			$(".begenmedimDetayTesekkur").show();    
+			setTimeout('$(".begenmedimDetay[rel=\''+mesajId+'\']").fadeOut()',1000);     
+		}
+		);
+
+});            
+ 
+     
+
+ 
+
+     
+
+     
+
+
+
+
+
+var userid = '';
+var usertype = '';
+var firmid = '';
+var firm_membership_type = '';
+var complainid = '3011485';
+var kategoriId = '434';
+var sikayetci_id = '1765633';
+var sikayetci_facebook_id = '0';
+var sikayet_page = '/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti/';
+var silindi = '0';
+
+var tercih_anket = false;
+var ziyaretci_tercih_anketi = false;
+var takipciSayisi = 0;
+
+
+
+
+     
+var puanlamaYapilmis = false;     
+var puanlamaAktif = false;                  
+     
+
+
+function takipEt() {
+
+	if(!empty(userid)){
+
+		$.post(
+			'/sikayet/detay', 
+			{ 
+				Fallow : 1, 
+				AjaxComplainID: complainid  
+			},
+			function(data) {
+				if(sikayetci_facebook_id > 0 && FB !== undefined){
+					FB.getLoginStatus(function(response) {
+						if(response.status == "connected"){
+							sendRequestToRecipients(sikayetci_facebook_id, 'Şikayetini takip ediyorum' , 'Kullanıcıyı haberdar Et', sikayet_page);
+						}
+					});
+
+				}                     
+				
+				takipciSayisi++;
+				$(".listCounter.takipciSayisi").text(takipciSayisi);
+				
+				uyari("Şikayeti takip ettğiniz için teşekkür ederiz.","bilgi","sabit","");
+				$("a.destekVer, #destekVer").hide();
+				$("a.destekVerCikar, #destekVerCikar").show();
+				
+				
+				
+			}
+			);
+
+	}
+	else{
+		popup_login_goster("sikayet/detay/"+complainid,"takipEt");
+	}
+
+}
+
+function takipEtmektenVazgec() {
+
+	if(!empty(userid)){
+
+		$.post(
+			'/sikayet/detay/', 
+			{ 
+				Fallow : 1, 
+				AjaxComplainID: complainid  
+			},
+			function(data) { 
+				
+				takipciSayisi--;
+				$(".listCounter.takipciSayisi").text(takipciSayisi);
+				uyari("Şikayeti takip etmekten vazgeçtiniz.","bilgi","sabit","");
+				$("a.destekVer, #destekVer").show();
+				$("a.destekVerCikar, #destekVerCikar").hide();
+			}
+			);
+
+	}
+	else{
+		popup_login_goster("sikayet/detay/"+complainid,"takipEtCikar");
+	}
+
+}
+
+
+	//Facebook Uygulaması
+	$(window).load(function () {
+
+		/*$('#tweetBox').jTweetsAnywhere({
+			username: ['sikayetvarcom'],
+			count: 3,
+			showTweetFeed: {
+				autoConformToTwitterStyleguide: true,
+				showTimestamp: {
+					refreshInterval: 15
+				},
+				autorefresh: {
+					mode: 'trigger-insert',
+					interval: 30
+				}
+			},
+			onDataRequestHandler: function(stats, options) {
+				if (stats.dataRequestCount < 11) {
+					return true;
+				}
+				else {
+					stopAutorefresh(options);
+				}
+			}
+		}); */       
+
+	if($('#sikayetdavet').length > 0){
+		FB.getLoginStatus(function(response) {
+			if(response.status !== "unknown"){
+				$('#sikayetdavet').css('display','block');
+				$('#sikayetdavet').live('click',function(e) {
+					if(response['authResponse'] != undefined && response['authResponse']['userID'] != undefined
+						&& response['authResponse']['userID'] ==  sikayetci_facebook_id){
+						sendInvite('Lütfen siz de şikayetime destek verir misiniz?' , 'Arkadaşlarından destek iste', sikayet_page);
+				}else{
+					sendInvite('Siz de bu şikayete destek vermek istemez misiniz?' , 'Arkadaşlarından destek iste', sikayet_page);
+				}
+				e.stopPropagation();e.preventDefault();return false;
+
+			});
+			}
+		});
+	}
+});
+
+textControlResult = false;
+function textControl()
+{               
+    html = $("#sikayetMesajMetinKutusu").html();
+
+    $.ajax({
+           type: "POST",     
+           url:'/sikayet/detay/',
+           dataType: "json",
+           async : false,
+           data:{
+                textControl : true,
+                text : html
+           },
+           success : function(data){   
+                $("#sikayetMesajMetinKutusu").html(data.text);
+                $('#mesajgonder').val($("#sikayetMesajMetinKutusu").html());
+                $(".textError").text("");  
+                if(data.keywords)
+                {                                       
+                    if(data.keywords.length >= 1)
+                    {                                             
+                        if($("#sikayetMesajMetinKutusu b.blacklist").length > 0)
+                        {
+                            $(".textError").html("Lütfen üstü çizili kelimeleri kaldırınız.");
+                            textControlResult = false;
+                        }
+                        else
+                        {
+                            $(".textError").html("Lütfen kırmızı renkli kelimeleri düzeltiniz.");
+                            if(data.keywords.length >= 4)
+                                textControlResult = false;
+                            else
+                                textControlResult = true;
+                        }
+                        
+                        $(".metinUyari").show();
+                    }
+                    else
+                    {
+                        textControlResult = true;
+                    }
+                }
+                else
+                {
+                    textControlResult = true;
+                }  
+           },
+           error: function (xhr, ajaxOptions, thrownError) {
+                textControlResult = true;
+           }           
+    });
+    
+    return textControlResult;    
+}        
+
+$(document).ready(function(){
+
+	$('.telefonDogrulamasiYapilmis').tipsy({trigger: 'focus', gravity: 's'});
+
+	yorumChangeControl();
+	var baslangic;
+
+			/*
+		$(".oncekiSikayet").attr('href','/sikayet/detay//redirect//prev');
+		$(".sonrakiSikayet").attr('href','/sikayet/detay//redirect//next');
+		*/
+		
+		 /*$(".degerlendirSlider").each(function(){
+			var mevcutPuan = parseInt($(this).find(".puan").val()) + 1;
+			$(this).find(".puan").val(mevcutPuan);
+			$(this).slider({
+					range: "min",
+					min: 0,
+					max: 0,
+					value:mevcutPuan,
+					slide: function( event, ui ) {
+						$(this).find("font span").text(ui.value);
+					},              
+										start: function( event, ui ) {
+						 alert("Değerlendirme Yapabilmeniz İçin 5 Saatiniz Var!");
+					}          
+					         
+			});
+});*/
+
+
+
+$("a.benzerSikayetlerYenile").live('click', function(){  
+
+    $('#benzerSikayetlerBox .sayfaYukleniyor').css("height",($('ul.benzerSikayetler').height()+46)+"px");
+    $('#benzerSikayetlerBox .sayfaYukleniyor').show();
+
+    var konu='';
+    var kategori='434';
+
+    $.post(
+        '/misc/info',
+        {
+            SVBenzer: '1',
+            kategori : kategori,
+            konu: konu,
+            adet: 4
+        },
+        function(data) {
+            $('ul.benzerSikayetler').html(data);
+            $('#benzerSikayetlerBox .sayfaYukleniyor').hide();
+        }
+        );
+});
+
+$(".sikayetMesajMetinKutusu").live("focus", function() { 
+    text = $(this).text();
+    if(text == "Şikayetiniz ile ilgili mesajınızı yazınız...")
+        $(this).text("");
+});
+
+$(".cevapYazGonder").live("click", function(e) {
+    if(!textControlResult)
+        e.preventDefault(); 
+});
+
+$(".sikayetMesajMetinKutusu").live("blur", function() { 
+    text = $(this).text();
+    if(!text)
+        $(this).text("Şikayetiniz ile ilgili mesajınızı yazınız...");
+    else
+        textControl();
+});
+
+
+ 
+
+ 
+
+
+var begenmeAktif = true;
+
+$("a.mesajBegen").click(function(){
+
+	var mesajId = $(this).attr("rel");
+
+	$.post(
+		'/misc/info/', 
+		{ 
+			mesajBegen : 1, 
+			mesajId : mesajId,
+			tur : "beğendi"  
+		},
+		function(data) { 
+
+			if($.trim(data) == "1"){
+				var begendiSayisi = $("span#mesajBegendiSayi_"+mesajId).text();
+				begendiSayisi++;
+
+				$("span#mesajBegendiSayi_"+mesajId).text(begendiSayisi);
+				$("div#mesajBegendiBox_"+mesajId).show();  
+
+				$("div#mesajBegenBox_"+mesajId).find("a").css("cursor","default"); 
+
+			}
+		}
+		);
+
+
+});
+
+
+$("a.mesajBegenme").click(function(){
+	var mesajId = $(this).attr("rel");
+
+	$.post(
+		'/misc/info/', 
+		{ 
+			mesajBegen : 1, 
+			mesajId : mesajId,
+			tur : "beğenmedi"  
+		},
+		function(data) { 
+
+			if($.trim(data)){
+				begeniId = $.trim(data);
+				$(".begenmedimDetay[rel='"+mesajId+"'] .begeniId").val(begeniId);
+				$(".begenmedimDetay[rel='"+mesajId+"'] .aktif").removeClass("aktif");
+				$(".begenmedimDetayTesekkur").hide();
+				$(".begenmedimDetay[rel='"+mesajId+"']").fadeIn();
+				var begenmediSayisi = $("span#mesajBegenmediSayi_"+mesajId).text();
+				begenmediSayisi++;
+
+				$("span#mesajBegenmediSayi_"+mesajId).text(begenmediSayisi);
+				$("div#mesajBegenmediBox_"+mesajId).show();
+
+				$("div#mesajBegenBox_"+mesajId).find("a").css("cursor","default"); 
+			}
+
+		}
+		);   
+});
+
+$("a.mesajBegenIptal").click(function(){
+	var mesajId = $(this).attr("rel");
+
+	$.post(
+		'/misc/info/', 
+		{ 
+			mesajBegenIptal : 1, 
+			mesajId : mesajId,
+			iptalEdilen : "beğendi"  
+		},
+		function(data) { 
+
+			if($.trim(data) == "1"){
+				var begendiSayisi = $("span#mesajBegendiSayi_"+mesajId).text();
+				begendiSayisi--;
+				$("span#mesajBegendiSayi_"+mesajId).text(begendiSayisi);
+
+				$("div#mesajBegendiBox_"+mesajId).hide();  
+
+				$("div#mesajBegenBox_"+mesajId).find("a").css("cursor","pointer"); 
+
+			}
+
+		}
+		);
+
+
+});
+
+$("a.mesajBegenmeIptal").click(function(){
+	var mesajId = $(this).attr("rel");
+
+	$.post(
+		'/misc/info/', 
+		{ 
+			mesajBegenIptal : 1, 
+			mesajId : mesajId,
+			iptalEdilen : "beğenmedi"  
+		},
+		function(data) { 
+
+			if($.trim(data) == "1"){
+				var begenmediSayisi = $("span#mesajBegenmediSayi_"+mesajId).text();
+				begenmediSayisi--;
+
+				$("span#mesajBegenmediSayi_"+mesajId).text(begenmediSayisi);
+				$("div#mesajBegenmediBox_"+mesajId).hide();   
+
+				$("div#mesajBegenBox_"+mesajId).find("a").css("cursor","pointer"); 
+
+			}
+		}
+		);
+
+
+});
+
+$(".tesekkurIcon").height($(".tesekkurMesaj").height()+20);
+
+_gaq.push(['_trackEvent', 'Hız İnceleme Logları', 'Şikayet Detay']);
+});
+</script>
+<script type="text/javascript">
+window.___gcfg = {lang: 'tr'};
+
+(function() {
+	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	po.src = 'https://apis.google.com/js/plusone.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();                    
+
+/*Twitter*/
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+</div>
+</div>
+<div class="footer">
+<div class="mainContainer">
+<div class="container">
+<img style="float:left; width:982px; height:45px;" src="/images/images_yeni/footer_golge.png" />
+<div class="footerLeft">
+<div class="footerLogo">
+<a href="http://www.sikayethaber.com" target="_blank" class="sikayetvartvLogo">sikayethaber.com</a>
+</div>
+<div class="bottomLineMenu">
+<ul>
+<li><a title="Şikayetvar Facebook Sayfası" onclick="_gaq.push(['_trackEvent', 'Tepe Menü', 'Tepe Menü - Facebook']);" href="http://www.facebook.com/sikayetvar" target="_blank" class="tm_facebook">Facebook</a></li>
+<li><a title="Şikayetvar Twitter Hesabı" onclick="_gaq.push(['_trackEvent', 'Tepe Menü', 'Tepe Menü - Twitter']);" href="http://www.twitter.com/sikayetvarcom" target="_blank" class="tm_twitter">Twitter</a></li>
+<li><a title="Şikayetvar Linkedin Sayfası" onclick="_gaq.push(['_trackEvent', 'Tepe Menü', 'Tepe Menü - Linkedin']);" href="http://linkedin.com/company/sikayetvar" target="_blank" class="tm_linkedin">Linkedin</a></li>
+<li><a title="Şikayetvar Youtube Kanalı" onclick="_gaq.push(['_trackEvent', 'Tepe Menü', 'Tepe Menü - Youtube']);" href="http://youtube.com/sikayetvarcom" target="_blank" class="tm_youtube">Youtube</a></li>
+<li><a title="Şikayetvar Google Plus Sayfası" onclick="_gaq.push(['_trackEvent', 'Tepe Menü', 'Tepe Menü - Google Plus']);" href="https://plus.google.com/u/0/110946422616567369652/posts" target="_blank" class="tm_googleplus">Google Plus</a></li>
+<li style="border: none;"><a title="RSS" onclick="_gaq.push(['_trackEvent', 'Tepe Menü', 'Tepe Menü - RSS']);" href="http://www.sikayetvar.com/home/rss/" target="_blank" class="tm_rss">RSS</a></li>
+</ul>
+</div>
+</div>
+<ul class="footerMenu">
+<li><a href="/home/hakkimizda/">Hakkımızda</a></li>
+<li><a href="/main/home/sikayet_sureci" title="Şikayet Süreci" onclick="_gaq.push(['_trackEvent', 'Şikayet Süreci Butonu', 'Footer Link']);">Şikayet Süreci</a></li>
+<li><a href="/basin/haber/">Basında Biz</a></li>
+<li><a href="/tuketici/tamir/">Tüketici Hakları</a></li>
+<li><a title="Şikayetendex" onclick="_gaq.push(['_trackEvent', 'Tepe Menü', 'Tepe Menü - Şikayetendex']);" href="http://www.sikayetendex.com" target="_blank" >Şikayetendex</a></li>
+<li><a title="Blog" onclick="_gaq.push(['_trackEvent', 'Tepe Menü', 'Tepe Menü - Blog']);" href="http://blog.sikayetvar.com" target="_blank" >Blog</a></li>
+<li><a title="Şikayethaber" onclick="_gaq.push(['_trackEvent', 'Tepe Menü', 'Tepe Menü - Şikayethaber']);" href="http://www.sikayethaber.com" target="_blank">Şikayethaber</a></li>
+<li><a title="Sanoveri" onclick="_gaq.push(['_trackEvent', 'Tepe Menü', 'Tepe Menü - Sanoveri']);" href="http://www.sanoveri.com" target="_blank">Sanoveri</a></li>
+</ul>
+<div class="footerMetin">
+<p style="float:left;">Sikayetvar.com Sunucuları <a href="http://www.rh.com.tr/" class="radore" target="_blank">Radore Hosting</a> Tarafından Barındırılmaktadır.</p>
+</div>
+</div>
+</div>
+</div>
+<script>
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/tr_TR/all.js#xfbml=1&appId=158181937579860";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+
+    var SV = { isFacebookReady : false };
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '158181937579860',
+            status     : true,
+            cookie     : true,
+            xfbml      : true
+        });
+        SV.isFacebookReady = true;
+    };
+</script>
+<script type="text/javascript" src="/js/site/main.sikayet.detay.js?v=?v=269" ></script>
+<div class="sikayetYazOverlay"></div>
+<a class='popupLoginGoster' href="#loginForm" title="Bu işlemi yapmak için giriş yapmalısınız!"></a>
+<script type="text/javascript">
+
+_gaq.push(['_setAccount', 'UA-2527738-4']);
+_gaq.push(['_trackPageview']);
+
+/*HTML Cache Tracking*/
+
+
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">
+    
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter23858680 = new Ya.Metrika({id:23858680,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"WhjNj1aUyS00aQ", domain:"sikayetvar.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=WhjNj1aUyS00aQ" style="display:none" height="1" width="1" alt="" /></noscript>
+<div id="fb-root"></div>
+<script>
+
+  // Load the SDK Asynchronously
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-2527738-4', 'sikayetvar.com');
+ga('send', 'pageview');
+</script>
+<a href="#" id="feedbackBt">Bize Ulaşın</a>
+<div id="feedbackBox">
+<ul class="feedbackContent">
+<li>
+<a href="/home/geribildirim/bireysel/" id="bireysel" ><i class="bireyselIcon"></i><span>BİREYSEL<br><small>Kullanıcı iseniz</small></span></a>
+</li>
+<li>
+<a href="/home/geribildirim/kurumsal/" id="kurumsal"><i class="kurums

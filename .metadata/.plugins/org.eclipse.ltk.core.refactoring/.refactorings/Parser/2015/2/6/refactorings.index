@@ -1,0 +1,17 @@
+1422876574312	Encapsulate field 'ARRAY_SİZE'
+1422966408790	Delete element
+1422966423786	Rename type 'Test'
+1423058218956	Rename field 'compObj'
+1423058227871	Rename local variable 'mergeObj'
+1423058321301	Extract local variable 'createComplaint'
+1423058383608	Rename local variable 'createComplaint'
+1423123154454	Rename type 'WriteToFile'
+1423123232115	Delete element
+1423124177727	Rename type 'Client'
+1423124906951	Rename type 'HttpRequests'
+1423126185670	Delete element
+1423136875744	Delete element
+1423136959185	Rename type 'FileWriting'
+1423136988651	Rename type 'FileWriter'
+1423137016196	Rename type 'HtmlParsing'
+1423137067554	Rename type 'HttpRequest'
