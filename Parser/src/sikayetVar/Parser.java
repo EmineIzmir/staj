@@ -1,0 +1,53 @@
+package sikayetVar;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.Timer;
+import java.util.TimerTask;
+
+/**
+ * 
+ * @author Emine Izmir This program is taking informations from sikayetvar.com
+ *         and checks the complaints every 5 minutes. It records them to json
+ *         files. For html parser, used Jetty and Jsoup libraries.
+ *
+ */
+public class Parser extends TimerTask {
+	private ArrayList<Complaint> complaintList = new ArrayList<Complaint>();
+	int fileNum = 0;
+
+	/**
+	 * runs 2 timer. First one executes run() methods and reaches HtmlParser
+	 * class in every 5 minutes. Second one increases file number for creating
+	 * new file in every hour.
+	 */
+	public Parser() {
+		Timer timer1 = new Timer();
+		Timer timer2 = new Timer();
+		timer1.scheduleAtFixedRate(this, new Date(), 5 * 60 * 1000);
+		timer2.schedule(new TimerTask() {
+			@Override
+			public void run() {
+				fileNum++;
+				complaintList.removeAll(complaintList);
+				System.err.println("timer2 working!");
+			}
+		}, new Date(), 60 * 60 * 1000);
+	}
+
+	public void run() {
+		try {
+			System.err.println("timer1 working!");
+			new HtmlParser().parser(complaintList, fileNum);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	/**
+	 * @throws Exception
+	 */
+	public static void main(String[] args) throws Exception {
+		new Parser();
+	}
+}

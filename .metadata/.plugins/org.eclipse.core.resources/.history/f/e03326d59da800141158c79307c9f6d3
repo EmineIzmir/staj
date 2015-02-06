@@ -1,0 +1,47 @@
+package sikayetVarTest;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.FileWriter;
+
+import sikayetVar.Complaint;
+import sikayetVar.ProcessesForParsing;
+import sikayetVar.Client;
+
+import org.jsoup.nodes.Document;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
+import org.mockito.Mock;
+import org.mockito.Mockito;
+
+import com.google.gson.Gson;
+
+public class ParserTest{
+	
+	
+	private ProcessesForParsing process = new ProcessesForParsing();
+	
+	Document setUp;
+	
+
+	@Test
+	public void testClient() throws Exception{
+		Client client = Mockito.mock(Client.class);
+		//Mockito.when(client.client()).thenReturn(setUp);
+		client.setUrl("http://www.sikayetvar.com/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti/");
+		setUp = client.client();
+		Complaint compObj = process.takeInformationsFromHtml(setUp);
+		Gson gson = new Gson();
+		String json = gson.toJson(compObj);
+		FileWriter writer = new FileWriter("sikayetlerTest.json");
+		writer.write(json);
+		process.processes();
+		 BufferedReader br1 = new BufferedReader(new FileReader("sikayetlerTest.json"));
+		 BufferedReader br2 = new BufferedReader(new FileReader("sikayetler.json"));
+		 
+		Assert.assertEquals(br1.toString(), br2.toString());
+		
+		writer.close();
+	}
+}

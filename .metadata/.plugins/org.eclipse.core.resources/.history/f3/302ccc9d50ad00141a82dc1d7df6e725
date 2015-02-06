@@ -1,0 +1,28 @@
+package sikayetVar;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.Timer;
+import java.util.TimerTask;
+
+public class Parser extends TimerTask {
+	private ArrayList<Complaint> complaintList = new ArrayList<Complaint>();
+
+	public Parser() {
+		// timer is 5 minutes
+		Timer timer1 = new Timer();
+		timer1.scheduleAtFixedRate(this, new Date(), 1000);
+	}
+
+	public void run() {
+		try {
+			new HtmlParser().parser(complaintList);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public static void main(String[] args) throws Exception {
+		new Parser();
+	}
+}

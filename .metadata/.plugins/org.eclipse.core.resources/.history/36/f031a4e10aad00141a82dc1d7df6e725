@@ -1,0 +1,59 @@
+package sikayetVar;
+
+public class Complaint {
+
+	private String Baslik;
+	private String Sikayet;
+	private String Firma;
+	private String SikayetDur;
+	private String Kullanici;
+
+	public Complaint(String title, String sikayet2, String firma2,
+			String sikayetDurumu, String kullanici2) {
+		this.Baslik = title;
+		this.Sikayet = sikayet2;
+		this.Firma = firma2;
+		this.SikayetDur = sikayetDurumu;
+		this.Kullanici = kullanici2;
+	}
+
+	public String getBaslik() {
+		return Baslik;
+	}
+
+	public String getSikayet() {
+		return Sikayet;
+	}
+
+	public String getSikayetDur() {
+		return SikayetDur;
+	}
+
+	public String getKullanici() {
+		return Kullanici;
+	}
+
+	public String getFirma() {
+		return Firma;
+	}
+
+	public void setBaslik(String Baslik) {
+		this.Baslik = Baslik;
+	}
+
+	public void setSikayet(String Sikayet) {
+		this.Sikayet = Sikayet;
+	}
+
+	public void setSikayetDurumu(String SikayetDur) {
+		this.SikayetDur = SikayetDur;
+	}
+
+	public void setKullanici(String Kullanici) {
+		this.Kullanici = Kullanici;
+	}
+
+	public void setFirma(String Firma) {
+		this.Firma = Firma;
+	}
+}

@@ -1,0 +1,53 @@
+package sikayetVarTest;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+
+import sikayetVar.Complaint;
+import sikayetVar.ProcessesForParsing;
+import sikayetVar.Client;
+
+import org.eclipse.jetty.client.HttpClient;
+import org.eclipse.jetty.client.api.ContentResponse;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
+import org.mockito.Mock;
+import org.mockito.Mockito;
+
+import com.google.gson.Gson;
+
+public class ParserTest{
+	private ProcessesForParsing process = new ProcessesForParsing();
+
+	@Mock
+	BufferedReader reader;
+	
+	@Test
+	public void testClient() throws Exception{
+		File file = new File("sikayetTest.txt");
+	    reader = new BufferedReader(new FileReader(file));
+	    Client client = Mockito.mock(Client.class);
+		Mockito.when(client.client()).thenReturn(reader.toString());
+		process.processes();
+	}
+	/*Document setUp;
+	
+
+	@Test
+	public void testClient() throws Exception{
+		Client client = Mockito.mock(Client.class);
+		//Mockito.when(client.client()).thenReturn(setUp);
+		client.setUrl("http://www.sikayetvar.com/sikayet/detay/3011485/asus-notebook-tamir-ucret-ve-musteri-memnuniyeti/");
+		setUp = client.client();
+		Complaint compObj = process.takeInformationsFromHtml(setUp);
+		process.processes();
+		Assert.assertEquals(br1.toString(), br2.toString());
+		
+		writer.close();
+	}*/
+}

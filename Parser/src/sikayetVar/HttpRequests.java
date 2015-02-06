@@ -15,6 +15,12 @@ public class HttpRequests {
 	private String url;
 	private String MAIN_URL = "https://www.sikayetvar.com/sikayetler";
 
+	/**
+	 * uses Jetty client to send get request.
+	 * 
+	 * @return
+	 * @throws Exception
+	 */
 	public String sendGetRequest() throws Exception {
 		HttpClient httpClient = new HttpClient();
 		httpClient.setFollowRedirects(false);
@@ -26,8 +32,15 @@ public class HttpRequests {
 
 		return htmlCodeOfPage;
 	}
-	
-	public String sendPostRequest(int i) throws Exception {
+
+	/**
+	 * sends post request for the next page and next complaints.
+	 * 
+	 * @param pageNumber
+	 * @return
+	 * @throws Exception
+	 */
+	public String sendPostRequest(int pageNumber) throws Exception {
 		URL obj = new URL(MAIN_URL);
 		HttpsURLConnection con = (HttpsURLConnection) obj.openConnection();
 
@@ -36,7 +49,8 @@ public class HttpRequests {
 		con.setRequestProperty("User-Agent", "Mozilla/5.0");
 		con.setRequestProperty("Accept-Language", "en-US,en;q=0.8,tr;q=0.6");
 
-		String urlParameters = "ignoreAjax=1&page=" + Integer.toString(i);
+		String urlParameters = "ignoreAjax=1&page="
+				+ Integer.toString(pageNumber);
 
 		// Send post request
 		con.setDoOutput(true);

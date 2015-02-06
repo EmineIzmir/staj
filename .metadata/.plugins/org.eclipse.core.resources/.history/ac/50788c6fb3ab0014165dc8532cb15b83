@@ -1,0 +1,30 @@
+package sikayetVar;
+
+import java.util.Date;
+import java.util.Timer;
+import java.util.TimerTask;
+
+public class Main extends TimerTask {
+	public Main() {
+		/**
+		 * 5 dakikada bir timer ayarlandı.
+		 */
+		Timer timer = new Timer();
+		timer.scheduleAtFixedRate(this, new Date(), 300000);
+	}
+	/**
+	 * 5 dakikada bir çalıştırlacak methodu bu method da belirtiyoruz.
+	 */
+	public void run() {
+		try {
+			new ProcessesForParsing().addNewcomplaints();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public static void main(String[] args) throws Exception {
+		new ProcessesForParsing().firstHundredComplaint();
+		new Main();
+	}
+}

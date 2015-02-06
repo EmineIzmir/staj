@@ -8,6 +8,13 @@ import java.util.ArrayList;
 import com.google.gson.Gson;
 
 public class File_Writer {
+	/**
+	 * Writes the complaint object to the file named as parameter.
+	 * 
+	 * @param compObj
+	 * @param fileName
+	 * @throws IOException
+	 */
 	public void createJson(ArrayList<Complaint> compObj, String fileName)
 			throws IOException {
 		Gson gson = new Gson();
@@ -16,6 +23,6 @@ public class File_Writer {
 		out.write(json);
 		out.newLine();
 		out.close();
-		System.out.println("Json created!");
+		System.out.println(fileName + " created!");
 	}
 }

@@ -11,32 +11,58 @@ import sikayetVar.HttpRequests;
 import sikayetVar.File_Writer;
 
 public class HtmlParser {
-	private String[] url = new String[10];
+	private String[] url = new String[10]; // there are 10 url for each webpage
 	private ArrayList<Complaint> newComplaints = new ArrayList<Complaint>();
 	private HttpRequests _client = new HttpRequests();
 
-	public void parser(ArrayList<Complaint> complaintList)
+	/**
+	 * takes information in each complaint page. if the complaint does not exist
+	 * in the list, records and all records are written in a file., Calls from
+	 * Parser class.
+	 * 
+	 * @param complaintList
+	 * @param fileNum
+	 * @throws Exception
+	 */
+	public void parser(ArrayList<Complaint> complaintList, int fileNum)
 			throws Exception {
 		for (int i = 0; i < 10; i++) {
 			Document doc = Jsoup.parse(new HttpRequests().sendPostRequest(i));
 			url = takeUrlsFromMainPage(doc);
 			createComplaintList(complaintList);
 		}
-		complaintList.addAll(0,newComplaints);
-		new File_Writer().createJson(complaintList, "sikayetler.json");
+		complaintList.addAll(0, newComplaints);
+		new File_Writer().createJson(complaintList, "sikayetler" + fileNum
+				+ ".json");
 	}
 
+	/**
+	 * records 10 complaints in one page and local variable holds the infos.
+	 * Calls from parser().
+	 * 
+	 * @param complaintList
+	 * @throws Exception
+	 */
 	public void createComplaintList(ArrayList<Complaint> complaintList)
 			throws Exception {
 		for (int j = 0; j < 10; j++) {
 			_client.setUrl("http:" + url[j] + "/");
 			Document doc2 = Jsoup.parse(_client.sendGetRequest());
 			Complaint complaint = createComplaintObject(doc2);
-			if (!complaintList.toString().contains(complaint.toString()))
+			if (!complaintList.toString().contains(complaint.toString())
+					|| complaintList == null)
 				newComplaints.add(complaint);
 		}
 	}
 
+	/**
+	 * This method parses html code and creates a complaint object. Calls from
+	 * createComplaintList().
+	 * 
+	 * @param htmlCode
+	 * @return
+	 * @throws Exception
+	 */
 	public Complaint createComplaintObject(Document htmlCode) throws Exception {
 		String a, b, c, d, e;
 		Element element = htmlCode.body().select(" div > h1").first();
@@ -49,6 +75,13 @@ public class HtmlParser {
 		return new Complaint(a, b, c, d, e);
 	}
 
+	/**
+	 * Records 10 url in local variable from main page. calls from parser.
+	 * 
+	 * @param htmlCode
+	 * @return
+	 * @throws IOException
+	 */
 	public String[] takeUrlsFromMainPage(Document htmlCode) throws IOException {
 		for (int i = 0; i < 10; i++) {
 			Element element = htmlCode.body().select(" h3 > a").get(i);

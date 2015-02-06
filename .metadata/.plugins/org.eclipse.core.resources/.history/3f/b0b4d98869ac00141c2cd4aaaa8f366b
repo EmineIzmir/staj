@@ -1,0 +1,31 @@
+package sikayetVar;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.Timer;
+import java.util.TimerTask;
+
+public class Main extends TimerTask {
+	private ArrayList<Complaint> mergeObj = new ArrayList<Complaint>();
+	public Main() {
+		/**
+		 * 5 dakikada bir timer ayarlandı.
+		 */
+		Timer timer = new Timer();
+		timer.scheduleAtFixedRate(this, new Date(), 180000);
+	}
+	/**
+	 * 5 dakikada bir çalıştırılacak methodu, bu method da belirtiyoruz.
+	 */
+	public void run() {
+		try {
+			new ProcessesForParsing().firstHundredComplaint(mergeObj);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public static void main(String[] args) throws Exception {
+		new Main();
+	}
+}

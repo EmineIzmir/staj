@@ -9,7 +9,8 @@ public class Complaint {
 	private String kullanici;
 
 	/**
-	 * Create complaint object.
+	 * Create complaint object. Calls from HtmlParser class,
+	 * createComplaintObject() method.
 	 */
 	public Complaint(String title, String sikayet2, String firma2,
 			String sikayetDurumu, String kullanici2) {

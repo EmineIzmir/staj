@@ -1,0 +1,148 @@
+package sikayetVar;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.DataOutputStream;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URL;
+import java.util.ArrayList;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.io.IOException;
+
+import javax.net.ssl.HttpsURLConnection;
+
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+
+import com.google.gson.Gson;
+
+import sikayetVar.Client;
+
+public class ProcessesForParsing {
+	private String MAIN_URL = "https://www.sikayetvar.com/sikayetler";
+	private String[] url = new String[10];
+	private ArrayList<Complaint> newComplaints = new ArrayList<Complaint>();
+	private Client _client = new Client();
+
+	/**
+	 * This method calls methods and all processes are executed.
+	 * 
+	 * @param complaintList
+	 * @throws Exception
+	 */
+	public void addComplaintToJson(ArrayList<Complaint> complaintList)
+			throws Exception {
+		for (int i = 0; i < 10; i++) {
+			Document doc = Jsoup.parse(sendPost(i));
+			takeUrlsFromMainPage(doc);
+			for (int j = 0; j < 10; j++) {
+				_client.setUrl("http:" + url[j] + "/");
+				doc = Jsoup.parse(_client.client());
+				Complaint complaint = createComplaint(doc);
+				if (!complaintList.toString().contains(complaint.toString()))
+					newComplaints.add(complaint);
+			}
+		}
+		complaintList.addAll(newComplaints);
+
+		createJson1(complaintList, "sikayetler.json");
+	}
+
+	/**
+	 * This method takes addresses of complaints from document.
+	 * 
+	 * @param htmlCode
+	 * @throws IOException
+	 */
+	public void takeUrlsFromMainPage(Document htmlCode) throws IOException {
+		for (int i = 0; i < 10; i++) {
+			Element element = htmlCode.body().select(" h3 > a").get(i);
+			url[i] = element.attr("href");
+		}
+	}
+
+	/**
+	 * Takes informations of baslik, sikayet, firma, sikayetDurumu and kullanici
+	 * from document and returns this informations as a complaint object
+	 * 
+	 * @param htmlCode
+	 * @return
+	 * @throws Exception
+	 */
+	public Complaint createComplaint(Document htmlCode) throws Exception {
+		String a, b, c, d, e;
+
+		Element element = htmlCode.body().select(" div > h1").first();
+		c = element.select("a").text();
+		a = element.text();
+		b = htmlCode.body().select("p.sikayetDetayMetin").text();
+		d = htmlCode.body().select("font.sikayetDurumu").text();
+		e = htmlCode.body().select("span.sikayetBilgi > a").text();
+
+		return new Complaint(a, b, c, d, e);
+	}
+	/**
+	 * writes complaint object to .json file
+	 * @param compObj
+	 * @param fileName
+	 * @throws IOException
+	 */
+	public void createJson1(ArrayList<Complaint> compObj, String fileName)
+			throws IOException {
+		Gson gson = new Gson();
+		String json = gson.toJson(compObj);
+		BufferedWriter out = new BufferedWriter(new FileWriter(fileName));
+		out.write(json);
+		out.newLine();
+		out.close();
+		System.out.println("Json created!");
+	}
+/**
+ * sends post request for changeing page.
+ * @param i  = number of page
+ * @return
+ * @throws Exception
+ */
+	public String sendPost(int i) throws Exception {
+		URL obj = new URL(MAIN_URL);
+		HttpsURLConnection con = (HttpsURLConnection) obj.openConnection();
+
+		// add request header
+		con.setRequestMethod("POST");
+		con.setRequestProperty("User-Agent", "Mozilla/5.0");
+		con.setRequestProperty("Accept-Language", "en-US,en;q=0.8,tr;q=0.6");
+
+		String urlParameters = "ignoreAjax=1&page=" + Integer.toString(i);
+
+		// Send post request
+		con.setDoOutput(true);
+		DataOutputStream wr = new DataOutputStream(con.getOutputStream());
+		wr.writeBytes(urlParameters);
+		wr.flush();
+		wr.close();
+
+		BufferedReader in = new BufferedReader(new InputStreamReader(
+				con.getInputStream()));
+		String inputLine;
+		StringBuffer response = new StringBuffer();
+
+		while ((inputLine = in.readLine()) != null) {
+			response.append(inputLine);
+		}
+		in.close();
+		return response.toString();
+	}
+
+	public String[] getUrl() {
+		return url;
+	}
+
+	public void setUrl(String[] url) {
+		this.url = url;
+	}
+
+}

@@ -1,0 +1,21 @@
+package sikayetVar;
+
+import org.eclipse.jetty.client.HttpClient;
+import org.eclipse.jetty.client.api.ContentResponse;
+
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+
+public class Client {
+	private Document htmlCodeOfPage;
+	
+	public Document client(String url) throws Exception {
+		HttpClient httpClient = new HttpClient();
+		httpClient.setFollowRedirects(false);
+		httpClient.start();
+		ContentResponse response = httpClient.GET(url);
+		htmlCodeOfPage = Jsoup.parse(response.getContentAsString());
+		httpClient.stop();
+		return htmlCodeOfPage;
+	}
+}
